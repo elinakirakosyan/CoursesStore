@@ -1,0 +1,10 @@
+export const MAIN_ROUTE = "/";
+export const ABOUT_ROUTE = "/about";
+export const LOG_IN_ROUTE = "/login";
+export const USER_ROUTE = "/user";
+export const ADD_ITEM_ROUTE = "/user/additem";
+export const USER_CART_ROUTE = "/user/cart";
+export const USER_PROFILE_ROUTE = "/user/profile";
+export const USER_PRODUCTS_ROUTE = "/user/products";
+export const EDIT_PRODUCT_ROUTE = "/product/edit";
+export const PRODUCT_INFO_ROUTE = "/product/info";

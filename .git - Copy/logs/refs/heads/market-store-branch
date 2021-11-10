@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 d409ecd08f408d2e76f2be134f1c57608f73428a Elina <kirakosyanelina7@gmail.com> 1634478216 +0400	branch: Created from HEAD
+d409ecd08f408d2e76f2be134f1c57608f73428a 91fabe7b7262f56b88a4c1363d9e82cc81eba177 Elina <kirakosyanelina7@gmail.com> 1634576726 +0400	commit: added searchfield (half done), Store, StoreCmp, CardCmp, GuestHeader, AddToCartButton components (2th variant)
